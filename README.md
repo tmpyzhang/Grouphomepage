@@ -1,2 +1,2 @@
 # Homepage
-Welcome to homepage https://tmpyzhang.github.io/Homepage/
+Welcome to homepage https://tmpyzhang.github.io
